@@ -1,4 +1,4 @@
-# 🐍 Python cho Xác Suất Thống Kê – MA239
+# Python cho Xác Suất Thống Kê – MA239
 > Trường ĐH Thăng Long | Tổng hợp từ tài liệu của cô Nguyễn Thị Nhung
 
 ---
